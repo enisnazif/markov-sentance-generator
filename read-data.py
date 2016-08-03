@@ -1,10 +1,6 @@
 import sys
 import string
 
-#What I want to do is construct a function that looks at all the words, and finds the most common two character sequences
-
-
-
 #return a dict containing all word level n grams and the number of times they occur within input
 def get_wordNGrams(n, input):
     nGrams = {}
