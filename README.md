@@ -15,5 +15,5 @@ e.g:
 
 sample output: 
 
-`even and a half days since i saw his tall spare figure pass twice in a dark silhouette`
+`seven and a half days since i saw his tall spare figure pass twice in a dark silhouette`
 
